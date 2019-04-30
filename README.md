@@ -1,2 +1,2 @@
 # -StewiackeRiverMusicFestivals
-See Gord LaRusic for additional insight
+# for Jeanette Robinson

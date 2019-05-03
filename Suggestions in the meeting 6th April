@@ -1,11 +1,19 @@
 - Change the platform from Weebly to Wordpress
-https://novascotia.goingtocamp.com/MiraRiverProvincialPark
-https://en-ca.wordpress.org/plugins/draw-attention/
-eventbrite
+
+
+The theme:
+https://wordpress.org/themes/somalite/
+
+Plugin for the map (Show all the information for cutomer (like power, water,Field letter & site...):
+https://mapsvg.com/
+
+Show the location with the descriptions:
 https://developer.here.com/api-explorer/maps-js/v3.0/maps/map-at-specified-location
-(Perhaps) useful features:
-https://developer.here.com/api-explorer/maps-js/v3.0/markers/draggable-marker
 https://developer.here.com/api-explorer/maps-js/v3.0/infoBubbles/open-infobubble
+
+Show the location with photo and decriptions:
 https://developer.here.com/api-explorer/maps-js/v3.0/infoBubbles/map-with-interactive-kml-objects
-https://developer.here.com/api-explorer/maps-js/v3.0/platformDataExtension/postcodes-jsla-pde
-https://maphub.net/explore
+
+
+To set up the event on site:
+https://wordpress.org/plugins/eventbrite-api/
